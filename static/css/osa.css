@@ -7,9 +7,25 @@ body {
     background-color: #000000;
 }
 
+.caption {
+    display: block;
+    font-size: 30px;
+}
+
+.web {
+    display: block;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.address {
+    display: block;
+    font-size: 20px;
+}
+
 .logo {
     margin: 20px;
-    width: 200px;
+    width: 269px;
 }
 
 header   {
@@ -41,11 +57,11 @@ figcaption {
     display: table;
     width: 100%;
     padding: 0px !important;
-    min-height: 100px;
+    min-height: 150px;
 }
 
 .fig-logo {
-    width: 200px;
+    width: 290px;
     background: rgba(0,0,0,.8);
     padding: 0 10px;
     display: table-cell;
@@ -53,8 +69,12 @@ figcaption {
     vertical-align: middle;
 }
 
-.fig-logo img {
-    width: 160px;
+.fig-logo-image img {
+    position: fixed;
+    bottom: 15px;
+    left: 20px;
+    width: 269px;
+    z-index: 10;
 }
 
 .fig-caption {
@@ -63,14 +83,21 @@ figcaption {
     vertical-align: middle;
 }
 
-.fig-address {
-    width: 290px;
+.fig-qr {
+    width: 150px;
     background: rgba(0,0,0,.8);
     text-align: right;
-    padding: 0 10px;
     display: table-cell;
     vertical-align: middle;
     font-size: 14px;
+}
+
+.fig-qr-image img {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    width: 150px;
+    z-index: 10;
 }
 
 img.slide {

@@ -21,23 +21,26 @@
 		        <img src="{{ url_for('static', filename='photos/' + slide["photo"]) }}" width="100%" class="slide" />
                     <figcaption>
                         <div class="fig-logo">
-                            <img src="{{ url_for('static', filename='img/osa_logo.png') }}">
                         </div>
                         <div class="fig-caption">
                             {% if slide["text"] %}
-                                <span>{{ slide["text"] }}</span>
+                                <span class="caption">{{ slide["text"] }}</span>
+                                <span class="web">www.osaarchivum.org</span>
+                                <span class="address">H-1051 Budapest, Arany János u. 32.</span>
                             {% endif %}
                         </div>
-                        <div class="fig-address">
-                            <span>Vera & Donald Blinken Open Society Archives<br/>
-                               H-1051 Budapest, Arany Janos u. 32.<br/><br/>
-                               www.osaarchivum.org
-                            </span>
+                        <div class="fig-qr">
                         </div>
                     </figcaption>
             </figure>
             {% endfor %}
         </div> <!-- // bss-slides -->
+        <div class="fig-logo-image">
+            <img src="{{ url_for('static', filename='img/osa_logo-110.png') }}">
+        </div>
+        <div class="fig-qr-image">
+            <img src="{{ url_for('static', filename='img/osa_qrcode.png') }}">
+        </div>
 
         <script src="{{ url_for('static', filename='js/better-simple-slideshow.min.js') }}"></script>
         <script src="{{ url_for('static', filename='js/osa.js') }}"></script>

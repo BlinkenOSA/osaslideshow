@@ -90,3 +90,4 @@ ENV/
 
 osaslideshow.conf
 .idea/
+/static/photos/*.jpg
