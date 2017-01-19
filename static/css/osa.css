@@ -72,3 +72,12 @@ figcaption {
     vertical-align: middle;
     font-size: 14px;
 }
+
+img.slide {
+    position: absolute !important;
+    top: 0;
+    bottom: -1080px;
+    left: 0;
+    right: 0;
+    margin: auto;
+}

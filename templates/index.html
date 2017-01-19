@@ -18,7 +18,7 @@
         <div class="bss-slides osaslide" tabindex="1" autofocus="autofocus">
             {% for slide in slides %}
             <figure>
-		        <img src="{{ url_for('static', filename='photos/' + slide["photo"]) }}" width="100%" />
+		        <img src="{{ url_for('static', filename='photos/' + slide["photo"]) }}" width="100%" class="slide" />
                     <figcaption>
                         <div class="fig-logo">
                             <img src="{{ url_for('static', filename='img/osa_logo.png') }}">
