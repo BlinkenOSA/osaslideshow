@@ -18,20 +18,18 @@
         <div class="bss-slides osaslide" tabindex="1" autofocus="autofocus">
             {% for slide in slides %}
             <figure>
-		        <img src="{{ url_for('static', filename='photos/' + slide["photo"]) }}" width="100%" class="slide" />
-                    <figcaption>
-                        <div class="fig-logo">
-                        </div>
-                        <div class="fig-caption">
-                            {% if slide["text"] %}
-                                <span class="caption">{% autoescape off %}{{ slide["text"] }}{% endautoescape %}</span>
-                                <span class="web">www.osaarchivum.org</span>
-                                <span class="address">H-1051 Budapest, Arany János u. 32.</span>
-                            {% endif %}
-                        </div>
-                        <div class="fig-qr">
-                        </div>
-                    </figcaption>
+		        <img src="{{ url_for('static', filename='photos/' + slide["photo"]) }}" class="slide {{ slide["align"] }}" />
+                <figcaption>
+                    <div class="fig-logo"></div>
+                    <div class="fig-caption">
+                        {% if slide["text"] %}
+                            <span class="caption">{% autoescape off %}{{ slide["text"] }}{% endautoescape %}</span>
+                            <span class="web">www.osaarchivum.org</span>
+                            <span class="address">H-1051 Budapest, Arany János u. 32.</span>
+                        {% endif %}
+                    </div>
+                    <div class="fig-qr"></div>
+                </figcaption>
             </figure>
             {% endfor %}
         </div> <!-- // bss-slides -->

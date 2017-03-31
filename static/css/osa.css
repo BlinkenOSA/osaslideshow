@@ -37,6 +37,8 @@ header   {
 .bss-slides {
     margin: 0;
     padding: 0;
+    text-align: center;
+    vertical-align: middle;
 }
 
 .bss-prev {
@@ -100,6 +102,12 @@ figcaption {
     z-index: 10;
 }
 
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
 img.slide {
     position: absolute !important;
     top: 0;
@@ -108,3 +116,16 @@ img.slide {
     right: 0;
     margin: auto;
 }
+
+/*
+img.slide.vertical {
+    width: auto;
+    height: 1080px;
+}
+
+img.slide.horizontal {
+    width: 1920px;
+    height: auto;
+    vertical-align: bottom;
+}
+*/
