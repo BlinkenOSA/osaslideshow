@@ -24,8 +24,8 @@
                     <div class="fig-caption">
                         {% if slide["text"] %}
                             <span class="caption">{% autoescape off %}{{ slide["text"] }}{% endautoescape %}</span>
-                            <span class="web">www.osaarchivum.org</span>
-                            <span class="address">H-1051 Budapest, Arany János u. 32.</span>
+                            <span class="web">{% autoescape off %}{{ slide["url"] }}{% endautoescape %}</span>
+                            <span class="address">{% autoescape off %}{{ slide["text2"] }}{% endautoescape %}</span>
                         {% endif %}
                     </div>
                     <div class="fig-qr"></div>
