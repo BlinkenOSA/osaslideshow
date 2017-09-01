@@ -1,6 +1,24 @@
 {
   "slides": [
     {
+      "photo": "presession01.jpg",
+      "text": "Pre-session week at Blinken Open Society Archives",
+      "url":  "www.osaarchivum.org",
+      "text2": "H-1051 Budapest, Arany János u. 32.",
+      "align": "horizontal"
+    }, {
+      "photo": "presession02.jpg",
+      "text": "Pre-session week at Blinken Open Society Archives",
+      "url":  "www.osaarchivum.org",
+      "text2": "H-1051 Budapest, Arany János u. 32.",
+      "align": "horizontal"
+    }, {
+      "photo": "presession03.jpg",
+      "text": "Pre-session week at Blinken Open Society Archives",
+      "url":  "www.osaarchivum.org",
+      "text2": "H-1051 Budapest, Arany János u. 32.",
+      "align": "horizontal"
+    }, {
       "photo": "01.jpg",
       "text": "Blinken Open Society Archives at CEU",
       "url":  "www.osaarchivum.org",
@@ -19,12 +37,6 @@
       "text2": "H-1051 Budapest, Arany János u. 32.",
       "align": "horizontal"
     }, {
-      "photo": "shooting.jpg",
-      "text": "Shooting the Revolution Film Series at Blinken OSA",
-      "url":  "www.osaarchivum.org",
-      "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
-    }, {
       "photo": "04.jpg",
       "text": "Blinken Open Society Archives at CEU",
       "url":  "www.osaarchivum.org",
@@ -37,6 +49,36 @@
       "text2": "H-1051 Budapest, Arany János u. 32.",
       "align": "horizontal"
     }, {
+      "photo": "osa_afgan_workshop.jpg",
+      "text": "Workshop: The Soviet Invasion and Its Aftermath – The Afghan Tragedy",
+      "url":  "www.osaarchivum.org",
+      "text2": "2017.06.20. @ Blinken OSA / H-1051 Budapest, Arany János u. 32.",
+      "align": "horizontal"
+    }, {
+      "photo": "osa_afgan_meghivo.jpg",
+      "text": "Afghanistan, Graveyard of Empires: The Soviet War Exhibition at Galeria Centralis (Blinken OSA)",
+      "url":  "www.osaarchivum.org",
+      "text2": "H-1051 Budapest, Arany János u. 32.",
+      "align": "horizontal"
+    }, {
+      "photo": "presession01.jpg",
+      "text": "Pre-session week at Blinken Open Society Archives",
+      "url":  "www.osaarchivum.org",
+      "text2": "H-1051 Budapest, Arany János u. 32.",
+      "align": "horizontal"
+    }, {
+      "photo": "presession02.jpg",
+      "text": "Pre-session week at Blinken Open Society Archives",
+      "url":  "www.osaarchivum.org",
+      "text2": "H-1051 Budapest, Arany János u. 32.",
+      "align": "horizontal"
+    }, {
+      "photo": "presession03.jpg",
+      "text": "Pre-session week at Blinken Open Society Archives",
+      "url":  "www.osaarchivum.org",
+      "text2": "H-1051 Budapest, Arany János u. 32.",
+      "align": "horizontal"
+    }, {
       "photo": "osaisceu01.jpg",
       "text": "#OSAISCEU / OSA’s 22-year history at a glance",
       "url":  "osaisceu.osaarchivum.org",
@@ -45,12 +87,6 @@
       "photo": "osaisceu02.jpg",
       "text": "#OSAISCEU / OSA’s 22-year history at a glance",
       "url":  "osaisceu.osaarchivum.org",
-      "align": "horizontal"
-    }, {
-      "photo": "shooting.jpg",
-      "text": "Shooting the Revolution Film Series at Blinken OSA",
-      "url":  "www.osaarchivum.org",
-      "text2": "H-1051 Budapest, Arany János u. 32.",
       "align": "horizontal"
     }, {
       "photo": "osaisceu03.jpg",
@@ -74,12 +110,6 @@
       "text2": "H-1051 Budapest, Arany János u. 32.",
       "align": "horizontal"
     }, {
-      "photo": "shooting.jpg",
-      "text": "Shooting the Revolution Film Series at Blinken OSA",
-      "url":  "www.osaarchivum.org",
-      "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
-    }, {
       "photo": "07.jpg",
       "text": "Blinken Open Society Archives at CEU",
       "url":  "www.osaarchivum.org",
@@ -98,14 +128,38 @@
       "text2": "H-1051 Budapest, Arany János u. 32.",
       "align": "horizontal"
     }, {
-      "photo": "shooting.jpg",
-      "text": "Shooting the Revolution Film Series at Blinken OSA",
+      "photo": "10.jpg",
+      "text": "Blinken Open Society Archives at CEU",
       "url":  "www.osaarchivum.org",
       "text2": "H-1051 Budapest, Arany János u. 32.",
       "align": "horizontal"
     }, {
-      "photo": "10.jpg",
-      "text": "Blinken Open Society Archives at CEU",
+      "photo": "presession01.jpg",
+      "text": "Pre-session week at Blinken Open Society Archives",
+      "url":  "www.osaarchivum.org",
+      "text2": "H-1051 Budapest, Arany János u. 32.",
+      "align": "horizontal"
+    }, {
+      "photo": "presession02.jpg",
+      "text": "Pre-session week at Blinken Open Society Archives",
+      "url":  "www.osaarchivum.org",
+      "text2": "H-1051 Budapest, Arany János u. 32.",
+      "align": "horizontal"
+    }, {
+      "photo": "presession03.jpg",
+      "text": "Pre-session week at Blinken Open Society Archives",
+      "url":  "www.osaarchivum.org",
+      "text2": "H-1051 Budapest, Arany János u. 32.",
+      "align": "horizontal"
+    }, {
+      "photo": "osa_afgan_workshop.jpg",
+      "text": "Workshop: The Soviet Invasion and Its Aftermath – The Afghan Tragedy",
+      "url":  "www.osaarchivum.org",
+      "text2": "2017.06.20. @ Blinken OSA / H-1051 Budapest, Arany János u. 32.",
+      "align": "horizontal"
+    }, {
+      "photo": "osa_afgan_meghivo.jpg",
+      "text": "Afghanistan, Graveyard of Empires: The Soviet War Exhibition at Galeria Centralis (Blinken OSA)",
       "url":  "www.osaarchivum.org",
       "text2": "H-1051 Budapest, Arany János u. 32.",
       "align": "horizontal"
@@ -118,12 +172,6 @@
       "photo": "osaisceu07.jpg",
       "text": "#OSAISCEU / OSA’s 22-year history at a glance",
       "url":  "osaisceu.osaarchivum.org",
-      "align": "horizontal"
-    }, {
-      "photo": "shooting.jpg",
-      "text": "Shooting the Revolution Film Series at Blinken OSA",
-      "url":  "www.osaarchivum.org",
-      "text2": "H-1051 Budapest, Arany János u. 32.",
       "align": "horizontal"
     }, {
       "photo": "osaisceu08.jpg",
@@ -141,14 +189,26 @@
       "url":  "osaisceu.osaarchivum.org",
       "align": "horizontal"
     }, {
-      "photo": "13.jpg",
-      "text": "Blinken Open Society Archives at CEU",
+      "photo": "presession01.jpg",
+      "text": "Pre-session week at Blinken Open Society Archives",
       "url":  "www.osaarchivum.org",
       "text2": "H-1051 Budapest, Arany János u. 32.",
       "align": "horizontal"
     }, {
-      "photo": "shooting.jpg",
-      "text": "Shooting the Revolution Film Series at Blinken OSA",
+      "photo": "presession02.jpg",
+      "text": "Pre-session week at Blinken Open Society Archives",
+      "url":  "www.osaarchivum.org",
+      "text2": "H-1051 Budapest, Arany János u. 32.",
+      "align": "horizontal"
+    }, {
+      "photo": "presession03.jpg",
+      "text": "Pre-session week at Blinken Open Society Archives",
+      "url":  "www.osaarchivum.org",
+      "text2": "H-1051 Budapest, Arany János u. 32.",
+      "align": "horizontal"
+    }, {
+      "photo": "13.jpg",
+      "text": "Blinken Open Society Archives at CEU",
       "url":  "www.osaarchivum.org",
       "text2": "H-1051 Budapest, Arany János u. 32.",
       "align": "horizontal"
@@ -171,15 +231,39 @@
       "text2": "H-1051 Budapest, Arany János u. 32.",
       "align": "horizontal"
     }, {
+      "photo": "osa_afgan_workshop.jpg",
+      "text": "Workshop: The Soviet Invasion and Its Aftermath – The Afghan Tragedy",
+      "url":  "www.osaarchivum.org",
+      "text2": "2017.06.20. @ Blinken OSA / H-1051 Budapest, Arany János u. 32.",
+      "align": "horizontal"
+    }, {
+      "photo": "osa_afgan_meghivo.jpg",
+      "text": "Afghanistan, Graveyard of Empires: The Soviet War Exhibition at Galeria Centralis (Blinken OSA)",
+      "url":  "www.osaarchivum.org",
+      "text2": "H-1051 Budapest, Arany János u. 32.",
+      "align": "horizontal"
+    }, {
+      "photo": "presession01.jpg",
+      "text": "Pre-session week at Blinken Open Society Archives",
+      "url":  "www.osaarchivum.org",
+      "text2": "H-1051 Budapest, Arany János u. 32.",
+      "align": "horizontal"
+    }, {
+      "photo": "presession02.jpg",
+      "text": "Pre-session week at Blinken Open Society Archives",
+      "url":  "www.osaarchivum.org",
+      "text2": "H-1051 Budapest, Arany János u. 32.",
+      "align": "horizontal"
+    }, {
+      "photo": "presession03.jpg",
+      "text": "Pre-session week at Blinken Open Society Archives",
+      "url":  "www.osaarchivum.org",
+      "text2": "H-1051 Budapest, Arany János u. 32.",
+      "align": "horizontal"
+    }, {
       "photo": "osaisceu11.jpg",
       "text": "#OSAISCEU / OSA’s 22-year history at a glance",
       "url":  "osaisceu.osaarchivum.org",
-      "align": "horizontal"
-    }, {
-      "photo": "shooting.jpg",
-      "text": "Shooting the Revolution Film Series at Blinken OSA",
-      "url":  "www.osaarchivum.org",
-      "text2": "H-1051 Budapest, Arany János u. 32.",
       "align": "horizontal"
     }, {
       "photo": "osaisceu12.jpg",
