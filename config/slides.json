@@ -1,292 +1,238 @@
 {
   "slides": [
     {
-      "photo": "presession01.jpg",
-      "text": "Pre-session week at Blinken Open Society Archives",
-      "url":  "www.osaarchivum.org",
-      "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
-    }, {
-      "photo": "presession02.jpg",
-      "text": "Pre-session week at Blinken Open Society Archives",
-      "url":  "www.osaarchivum.org",
-      "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
-    }, {
-      "photo": "presession03.jpg",
-      "text": "Pre-session week at Blinken Open Society Archives",
-      "url":  "www.osaarchivum.org",
-      "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
-    }, {
       "photo": "01.jpg",
       "text": "Blinken Open Society Archives at CEU",
       "url":  "www.osaarchivum.org",
       "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": true
     }, {
       "photo": "02.jpg",
       "text": "Blinken Open Society Archives at CEU",
       "url":  "www.osaarchivum.org",
       "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": true
     }, {
       "photo": "03.jpg",
       "text": "Blinken Open Society Archives at CEU",
       "url":  "www.osaarchivum.org",
       "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": true
+
     }, {
       "photo": "04.jpg",
       "text": "Blinken Open Society Archives at CEU",
       "url":  "www.osaarchivum.org",
       "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": true
     }, {
       "photo": "05.jpg",
       "text": "Blinken Open Society Archives at CEU",
       "url":  "www.osaarchivum.org",
       "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": true
     }, {
-      "photo": "osa_afgan_workshop.jpg",
-      "text": "Workshop: The Soviet Invasion and Its Aftermath – The Afghan Tragedy",
-      "url":  "www.osaarchivum.org",
-      "text2": "2017.06.20. @ Blinken OSA / H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
-    }, {
-      "photo": "osa_afgan_meghivo.jpg",
-      "text": "Afghanistan, Graveyard of Empires: The Soviet War Exhibition at Galeria Centralis (Blinken OSA)",
+      "photo": "art_in_academia_kepernyo.jpg",
+      "text": "Art IN Academia  - January 18, 2018 - February 5, 2018 @ Blinken OSA",
       "url":  "www.osaarchivum.org",
       "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
-    }, {
-      "photo": "presession01.jpg",
-      "text": "Pre-session week at Blinken Open Society Archives",
-      "url":  "www.osaarchivum.org",
-      "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
-    }, {
-      "photo": "presession02.jpg",
-      "text": "Pre-session week at Blinken Open Society Archives",
-      "url":  "www.osaarchivum.org",
-      "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
-    }, {
-      "photo": "presession03.jpg",
-      "text": "Pre-session week at Blinken Open Society Archives",
-      "url":  "www.osaarchivum.org",
-      "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": false
     }, {
       "photo": "osaisceu01.jpg",
       "text": "#OSAISCEU / OSA’s 22-year history at a glance",
       "url":  "osaisceu.osaarchivum.org",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": false
     }, {
       "photo": "osaisceu02.jpg",
       "text": "#OSAISCEU / OSA’s 22-year history at a glance",
       "url":  "osaisceu.osaarchivum.org",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": false
     }, {
       "photo": "osaisceu03.jpg",
       "text": "#OSAISCEU / OSA’s 22-year history at a glance",
       "url":  "osaisceu.osaarchivum.org",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": false
     }, {
       "photo": "osaisceu04.jpg",
       "text": "#OSAISCEU / OSA’s 22-year history at a glance",
       "url":  "osaisceu.osaarchivum.org",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": false
     }, {
       "photo": "osaisceu05.jpg",
       "text": "#OSAISCEU / OSA’s 22-year history at a glance",
       "url":  "osaisceu.osaarchivum.org",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": false
+    }, {
+      "photo": "art_in_academia_kepernyo.jpg",
+      "text": "Art IN Academia  - January 18, 2018 - February 5, 2018 @ Blinken OSA",
+      "url":  "www.osaarchivum.org",
+      "text2": "H-1051 Budapest, Arany János u. 32.",
+      "align": "horizontal",
+      "caption": false
     }, {
       "photo": "06.jpg",
       "text": "Blinken Open Society Archives at CEU",
       "url":  "www.osaarchivum.org",
       "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": true
     }, {
       "photo": "07.jpg",
       "text": "Blinken Open Society Archives at CEU",
       "url":  "www.osaarchivum.org",
       "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": true
     }, {
       "photo": "08.jpg",
       "text": "Blinken Open Society Archives at CEU",
       "url":  "www.osaarchivum.org",
       "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": true
     }, {
       "photo": "09.jpg",
       "text": "Blinken Open Society Archives at CEU",
       "url":  "www.osaarchivum.org",
       "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": true
     }, {
       "photo": "10.jpg",
       "text": "Blinken Open Society Archives at CEU",
       "url":  "www.osaarchivum.org",
       "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": true
     }, {
-      "photo": "presession01.jpg",
-      "text": "Pre-session week at Blinken Open Society Archives",
+      "photo": "art_in_academia_kepernyo.jpg",
+      "text": "Art IN Academia  - January 18, 2018 - February 5, 2018 @ Blinken OSA",
       "url":  "www.osaarchivum.org",
       "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
-    }, {
-      "photo": "presession02.jpg",
-      "text": "Pre-session week at Blinken Open Society Archives",
-      "url":  "www.osaarchivum.org",
-      "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
-    }, {
-      "photo": "presession03.jpg",
-      "text": "Pre-session week at Blinken Open Society Archives",
-      "url":  "www.osaarchivum.org",
-      "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
-    }, {
-      "photo": "osa_afgan_workshop.jpg",
-      "text": "Workshop: The Soviet Invasion and Its Aftermath – The Afghan Tragedy",
-      "url":  "www.osaarchivum.org",
-      "text2": "2017.06.20. @ Blinken OSA / H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
-    }, {
-      "photo": "osa_afgan_meghivo.jpg",
-      "text": "Afghanistan, Graveyard of Empires: The Soviet War Exhibition at Galeria Centralis (Blinken OSA)",
-      "url":  "www.osaarchivum.org",
-      "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": false
     }, {
       "photo": "osaisceu06.jpg",
       "text": "#OSAISCEU / OSA’s 22-year history at a glance",
       "url":  "osaisceu.osaarchivum.org",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": false
     }, {
       "photo": "osaisceu07.jpg",
       "text": "#OSAISCEU / OSA’s 22-year history at a glance",
       "url":  "osaisceu.osaarchivum.org",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": false
     }, {
       "photo": "osaisceu08.jpg",
       "text": "#OSAISCEU / OSA’s 22-year history at a glance",
       "url":  "osaisceu.osaarchivum.org",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": false
     }, {
       "photo": "osaisceu09.jpg",
       "text": "#OSAISCEU / OSA’s 22-year history at a glance",
       "url":  "osaisceu.osaarchivum.org",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": false
     }, {
       "photo": "osaisceu10.jpg",
       "text": "#OSAISCEU / OSA’s 22-year history at a glance",
       "url":  "osaisceu.osaarchivum.org",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": false
     }, {
-      "photo": "presession01.jpg",
-      "text": "Pre-session week at Blinken Open Society Archives",
+      "photo": "art_in_academia_kepernyo.jpg",
+      "text": "Art IN Academia  - January 18, 2018 - February 5, 2018 @ Blinken OSA",
       "url":  "www.osaarchivum.org",
       "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
-    }, {
-      "photo": "presession02.jpg",
-      "text": "Pre-session week at Blinken Open Society Archives",
-      "url":  "www.osaarchivum.org",
-      "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
-    }, {
-      "photo": "presession03.jpg",
-      "text": "Pre-session week at Blinken Open Society Archives",
-      "url":  "www.osaarchivum.org",
-      "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": false
     }, {
       "photo": "13.jpg",
       "text": "Blinken Open Society Archives at CEU",
       "url":  "www.osaarchivum.org",
       "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": true
     }, {
       "photo": "15.jpg",
       "text": "Blinken Open Society Archives at CEU",
       "url":  "www.osaarchivum.org",
       "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": true
     }, {
       "photo": "17.jpg",
       "text": "Blinken Open Society Archives at CEU",
       "url":  "www.osaarchivum.org",
       "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": true
     }, {
       "photo": "18.jpg",
       "text": "Blinken Open Society Archives at CEU",
       "url":  "www.osaarchivum.org",
       "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": true
     }, {
-      "photo": "osa_afgan_workshop.jpg",
-      "text": "Workshop: The Soviet Invasion and Its Aftermath – The Afghan Tragedy",
-      "url":  "www.osaarchivum.org",
-      "text2": "2017.06.20. @ Blinken OSA / H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
-    }, {
-      "photo": "osa_afgan_meghivo.jpg",
-      "text": "Afghanistan, Graveyard of Empires: The Soviet War Exhibition at Galeria Centralis (Blinken OSA)",
+      "photo": "art_in_academia_kepernyo.jpg",
+      "text": "Art IN Academia  - January 18, 2018 - February 5, 2018 @ Blinken OSA",
       "url":  "www.osaarchivum.org",
       "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
-    }, {
-      "photo": "presession01.jpg",
-      "text": "Pre-session week at Blinken Open Society Archives",
-      "url":  "www.osaarchivum.org",
-      "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
-    }, {
-      "photo": "presession02.jpg",
-      "text": "Pre-session week at Blinken Open Society Archives",
-      "url":  "www.osaarchivum.org",
-      "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
-    }, {
-      "photo": "presession03.jpg",
-      "text": "Pre-session week at Blinken Open Society Archives",
-      "url":  "www.osaarchivum.org",
-      "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": false
     }, {
       "photo": "osaisceu11.jpg",
       "text": "#OSAISCEU / OSA’s 22-year history at a glance",
       "url":  "osaisceu.osaarchivum.org",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": false
     }, {
       "photo": "osaisceu12.jpg",
       "text": "#OSAISCEU / OSA’s 22-year history at a glance",
       "url":  "osaisceu.osaarchivum.org",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": false
     }, {
       "photo": "osaisceu13.jpg",
       "text": "#OSAISCEU / OSA’s 22-year history at a glance",
       "url":  "osaisceu.osaarchivum.org",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": false
     }, {
       "photo": "20.jpg",
       "text": "Blinken Open Society Archives at CEU",
       "url":  "www.osaarchivum.org",
       "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": true
+    }, {
+      "photo": "art_in_academia_kepernyo.jpg",
+      "text": "Art IN Academia  - January 18, 2018 - February 5, 2018 @ Blinken OSA",
+      "url":  "www.osaarchivum.org",
+      "text2": "H-1051 Budapest, Arany János u. 32.",
+      "align": "horizontal",
+      "caption": false
     }, {
       "photo": "25.jpg",
       "text": "Blinken Open Society Archives at CEU",
       "url":  "www.osaarchivum.org",
       "text2": "H-1051 Budapest, Arany János u. 32.",
-      "align": "horizontal"
+      "align": "horizontal",
+      "caption": true
     }
   ]
 }

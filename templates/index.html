@@ -20,8 +20,12 @@
             {% for slide in slides %}
             <figure>
 		        <img src="{{ url_for('static', filename='photos/' + slide["photo"]) }}" class="slide {{ slide["align"] }}" />
+
+                {% if slide["caption"] %}
                 <figcaption>
-                    <div class="fig-logo"></div>
+                    <div class="fig-logo">
+                        <img src="{{ url_for('static', filename='img/osa_logo-110.png') }}">
+                    </div>
                     <div class="fig-caption">
                         {% if slide["text"] %}
                             <span class="caption">{% autoescape off %}{{ slide["text"] }}{% endautoescape %}</span>
@@ -29,17 +33,15 @@
                             <span class="address">{% autoescape off %}{{ slide["text2"] }}{% endautoescape %}</span>
                         {% endif %}
                     </div>
-                    <div class="fig-qr"></div>
+                    <div class="fig-qr">
+                        <img src="{{ url_for('static', filename='img/osa_qrcode.png') }}">
+                    </div>
                 </figcaption>
+                {% endif %}
+
             </figure>
             {% endfor %}
         </div> <!-- // bss-slides -->
-        <div class="fig-logo-image">
-            <img src="{{ url_for('static', filename='img/osa_logo-110.png') }}">
-        </div>
-        <div class="fig-qr-image">
-            <img src="{{ url_for('static', filename='img/osa_qrcode.png') }}">
-        </div>
 
         <script src="{{ url_for('static', filename='js/better-simple-slideshow.min.js') }}"></script>
         <script src="{{ url_for('static', filename='js/osa.js') }}"></script>
